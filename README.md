@@ -1,4 +1,5 @@
 - 🍝 Hi, I’m @GiulioCusenza.
-- 😛 Interested in languages.
-- 👂 Italian, Sicilian, English, French, Russian, German.
 - 💻 Currently studying computational linguistics.
+- 😛 Interested in languages:
+  - 👂 Italian, Sicilian, English, French, Russian, German.
+  - 📖 Latin, Ancient Greek.
