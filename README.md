@@ -1,5 +1,7 @@
 # My Projects
 
+### [Measuring Parliamentary Polarization with Contextual Word Embeddings](https://github.com/GiulioCusenza/PolarisationContextualEmbeddings)
+
 ### [FST spell checker](https://github.com/GiulioCusenza/FST-spell-checker)
 Probabilistic spell checker built on weighted finite state transducers.
 
